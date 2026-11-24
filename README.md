@@ -1,4 +1,4 @@
-# My Git Learning Project
+# My Git Learning Project Vasu Reddy
 
 This repository is created while learning Git and GitHub.
 
